@@ -1,0 +1,6 @@
+
+APIs
+
+
+1) https://3000-freecodecam-boilerplate-40e7usqdii3.ws-us115.gitpod.io/api/users
+2) https://3000-freecodecam-boilerplate-40e7usqdii3.ws-us115.gitpod.io/api/users/66a4dd056960919234aeb8c7/logs?from=2024-07-29
