@@ -1,0 +1,36 @@
+
+#1 How to Use package.json, 
+"author": "Jane Doe",
+
+#2Add a Description to Your package.json
+"description": "A project that does something awesome",
+
+#3Add Keywords to Your package.json
+"keywords": [ "descriptive", "related", "words" ],
+
+#4Add a License to Your package.json
+"license": "MIT",
+
+#5Add a Version to Your package.json
+"version": "1.2.0",
+
+#6Expand Your Project with External Packages from npm
+"dependencies": {
+  "package-name": "version",
+  "express": "4.14.0"
+}
+
+#7Manage npm Dependencies By 
+"package": "MAJOR.MINOR.PATCH",
+					: 4.14.0
+
+#8Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
+	"package": "~1.3.8"
+
+#9Use the Caret-Character to Use the Latest Minor Version of a Dependency
+	"package": "^1.3.8"
+
+#10Remove a Package from Your Dependencies
+
+
+
